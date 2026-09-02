@@ -1,3 +1,4 @@
+![](https://indico.desy.de/event/50246/attachments/99407/137562/Banner%20DLS%20Advanced%202026.jpg)
 # Normalizing Flows Tutorial — ErUM Deep Learning School 2026
 
 This repository contains the lecture and hands-on material on **normalizing flows** prepared for the ErUM Deep Learning School **“Advanced Concepts.”**
